@@ -1,0 +1,36 @@
+{
+    "id": 127,
+    "name": "Paradoxical",
+    "author": "Codingfire",
+    "creators": ["Codingfire"],
+    "verifier": "Codingfire",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "xyz",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rocket",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "PGThe3G",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 120
+        },
+    ]
+}
