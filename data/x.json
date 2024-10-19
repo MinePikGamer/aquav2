@@ -1,18 +1,24 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 116,
+    "name": "x",
+    "author": "xyz",
+    "creators": ["xyz"],
+    "verifier": "xyz",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Rocket",
+            "link": "https://www.youtube.com/",
             "percent": 100,
-            "hz": 360
+            "hz": 120
+        }
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
