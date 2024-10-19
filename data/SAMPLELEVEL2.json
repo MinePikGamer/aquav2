@@ -1,12 +1,24 @@
 {
-    "id": 57436521,
+    "id": 120,
     "name": "Carbon Life",
     "author": "Slopes",
-    "creators": [],
+    "creators": ["Slopes"],
     "verifier": "Slopes",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://www.youtube.com/",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "",
     "records": [
+        {
+            "user": "xyz",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "PGThe3G",
+            "link": "https://www.youtube.com/watch?v=B4PT1AN8u8Q",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
