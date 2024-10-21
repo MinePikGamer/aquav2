@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "PGThe3G",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 90
         }
     ]
 }
