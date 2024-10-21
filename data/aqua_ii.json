@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Nojnis",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
