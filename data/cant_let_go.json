@@ -1,0 +1,24 @@
+{
+    "id": 6,
+    "name": "Cant Let Go",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "RobTop",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Cubeic",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "xyz",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
