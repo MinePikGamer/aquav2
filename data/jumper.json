@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
