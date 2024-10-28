@@ -9,7 +9,10 @@
     "password": "",
     "records": [
         {
-            
-        },
+            "user": "",
+            "link": "https://www.youtube.com/",
+            "percent": 0,
+            "hz": 0
+        }
     ]
 }
