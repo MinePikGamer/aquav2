@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "",
+            "user": "Xan",
             "link": "https://www.youtube.com/",
-            "percent": 0,
-            "hz": 0
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
