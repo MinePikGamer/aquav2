@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "KorbynTalks",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 60
+        },
+        
     ]
 }
