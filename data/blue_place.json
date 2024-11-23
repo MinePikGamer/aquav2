@@ -1,0 +1,18 @@
+{
+    "id": 160,
+    "name": "Blue Place",
+    "author": "mmo",
+    "creators": ["mmo"],
+    "verifier": "mmo",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "",
+            "link": "https://www.youtube.com/",
+            "percent": ,
+            "hz": 
+        }
+    ]
+}
